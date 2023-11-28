@@ -64,6 +64,8 @@ h1 {
 
 .profile-pic {
     border-radius: 50%;
+    width: 60px;
+    height: 60px;
     max-width: 60px;
 }
 
